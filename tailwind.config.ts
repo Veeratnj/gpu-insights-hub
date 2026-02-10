@@ -47,6 +47,16 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        nvidia: {
+          green: "hsl(var(--nvidia-green))",
+          glow: "hsl(var(--nvidia-glow))",
+          dark: "hsl(var(--nvidia-dark))",
+        },
+        chart: {
+          grid: "hsl(var(--chart-grid))",
+          text: "hsl(var(--chart-text))",
+          "bar-secondary": "hsl(var(--chart-bar-secondary))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
